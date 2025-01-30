@@ -1,3 +1,18 @@
+<p align="left">
+  <a href="https://github.com/hajime-f">
+    <img height="20" src="https://komarev.com/ghpvc/?username=hajime-f" />
+  </a>
+  <a href="https://github.com/hajime-f">
+    <img height="20" src="https://img.shields.io/github/followers/hajime-f?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/hajime-f">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/posts.svg" />
+  </a>
+  <a href="http://qiita.com/hajime-f">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/contributions.svg" />
+  </a>
+</p>
+
 - 👋 Hi, I’m @hajime-f
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
