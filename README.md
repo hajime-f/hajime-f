@@ -1,3 +1,5 @@
+With a Ph.D. in Machine Learning and a background in Information Science, I possess strong programming abilities despite not being a dedicated software engineer. My current work centers around a Python-based automated trading program for Japanese stocks, driven by Machine Learning algorithms.
+
 <p align="left">
   <a href="https://github.com/hajime-f">
     <img height="20" src="https://komarev.com/ghpvc/?username=hajime-f" />
@@ -12,14 +14,3 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/contributions.svg" />
   </a>
 </p>
-
-- 👋 Hi, I’m @hajime-f
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Please send an email to hajime.fujita@gmail.com
-
-<!---
-hajime-f/hajime-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
