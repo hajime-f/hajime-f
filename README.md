@@ -26,11 +26,12 @@
 <h2>Family 🐈</h2>
 <p>I have a wife, but no children. We have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, it sometimes hides behind my Macbook and display. Cute 🥰</p>
 
-![Image](https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd)
+<img src="https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd" />
 
 <h2>Emacs and Dvorak 🥳</h2>
 <p>I've been a dedicated <a href="https://www.gnu.org/software/emacs/">Emacs</a> user for about 30 years. While most software engineers these days seem to have switched to VSCode, I remain stubbornly loyal to Emacs (or perhaps I should say, I'm unable to break free from it). And for approximately 25 years, I've been using a <a href="https://kinesis-ergo.com/keyboards/advantage360/">Kinesis keyboard</a> with the Dvorak layout.</p>
 
+<p>A keyboard is an engineer's essential tool of the trade. It's a device used daily, so it makes sense for everyone to choose one that they feel comfortable with.</p>
 
 <h2>GitHub Stats 😝</h2>
 
