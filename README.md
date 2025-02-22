@@ -1,3 +1,5 @@
+<h2>Summary</h2>
+
 <p>I'm Japanese. With a Ph.D. in Machine Learning and a background in Information Science, I have strong programming abilities despite not being a dedicated software engineer. My current work centers around <a href="https://github.com/hajime-f/stocktrading">a Python-based automated trading program for Japanese stocks</a>, driven by Machine Learning algorithms.</p>
 
 <p>I live in <a href="https://en.wikipedia.org/wiki/Nishinomiya">Nishinomiya</a>, a quiet city nestled between Osaka and Kobe. It's a popular residential area, consistently ranking high in "desirable places to live" surveys, which is great news for my property values! ...Though, perhaps this isn't quite the kind of thing to include in a GitHub bio (my apologies).</p>
@@ -20,6 +22,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/contributions.svg" />
   </a>
 </p>
+
+<h2>GitHub Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hajime-f&count_private=true&show_icons=true" />
