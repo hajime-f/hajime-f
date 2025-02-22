@@ -23,6 +23,9 @@
   </a>
 </p>
 
+<h2>Family 🐈</h2>
+<p>I have a wife, but no children. We have a cat named Hoshi. This cat is very attached to my wife, but completely ignores me. However, it sometimes hides behind my Mac and display. It's cute 🥰</p>
+
 ![Image](https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd)
 
 <h2>GitHub Stats 😝</h2>
