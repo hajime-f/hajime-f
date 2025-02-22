@@ -25,9 +25,7 @@
 
 <h2>GitHub Stats</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hajime-f&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f" style="compact" />
-</a>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&theme=onedark&show_icons=ture" />
+</p>
