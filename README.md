@@ -6,13 +6,6 @@
 
 <p>I recently quit my soul-crushing corporate job and am now happily unemployed. For the time being, I plan to make a living by trading stocks using my automated trading program. However, if you happen to know of any interesting job opportunities, please don't hesitate to <a href="mailto:hajime.fujita@gmail.com">let me know</a>. I'm confident I can be quite useful ...probably.</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hajime-f&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f" style="compact" />
-</a>
-
 <p align="left">
   <a href="https://github.com/hajime-f">
     <img height="20" src="https://komarev.com/ghpvc/?username=hajime-f" />
@@ -27,3 +20,10 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/contributions.svg" />
   </a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hajime-f&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f" style="compact" />
+</a>
