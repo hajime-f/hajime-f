@@ -1,4 +1,4 @@
-<h2>Summary</h2>
+<h2>Summary 😏</h2>
 
 <p>I'm Japanese. With a Ph.D. in Machine Learning and a background in Information Science, I have strong programming abilities despite not being a dedicated software engineer. My current work centers around <a href="https://github.com/hajime-f/stocktrading">a Python-based automated trading program for Japanese stocks</a>, driven by Machine Learning algorithms.</p>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Stats 😝</h2>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
