@@ -26,6 +26,6 @@
 <h2>GitHub Stats 😝</h2>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
 </p>
