@@ -7,10 +7,10 @@
 <p>I recently quit my soul-crushing corporate job and am now happily unemployed. For the time being, I plan to make a living by trading stocks using my automated trading program. However, if you happen to know of any interesting job opportunities, please don't hesitate to <a href="mailto:hajime.fujita@gmail.com">let me know</a>. I'm confident I can be quite useful ...probably.</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hajime-f&count_private=true&show_icons=true" />
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hajime-f)
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f" />
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact)
 </a>
 
 <p align="left">
