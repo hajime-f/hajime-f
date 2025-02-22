@@ -23,9 +23,11 @@
   </a>
 </p>
 
+![Image](https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd)
+
 <h2>GitHub Stats 😝</h2>
 
 <p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
 </p>
