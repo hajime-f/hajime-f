@@ -24,13 +24,13 @@
 </p>
 
 <h2>Family 🐈</h2>
-<p>I have a wife, but no children. We have a cat named Hoshi. This cat is very attached to my wife, but completely ignores me. However, it sometimes hides behind my Mac and display. It's cute 🥰</p>
+<p>I have a wife, but no children. We have a cat named "Hoshi", which means 'star' in Japanese. This cat is very attached to my wife, but completely ignores me. However, it sometimes hides behind my Macbook and display. Cute 🥰</p>
 
 ![Image](https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd)
 
 <h2>GitHub Stats 😝</h2>
 
 <p align="left"> 
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=hajime-f&show_icons=ture" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajime-f&layout=compact&show_icons=true" />
 </p>
