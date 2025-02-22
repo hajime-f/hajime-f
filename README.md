@@ -31,7 +31,13 @@
 <h2>Emacs and Dvorak 🥳</h2>
 <p>I've been a dedicated <a href="https://www.gnu.org/software/emacs/">Emacs</a> user for about 30 years. While most software engineers these days seem to have switched to VSCode, I remain stubbornly loyal to Emacs (or perhaps I should say, I'm unable to break free from it). And for approximately 25 years, I've been using a <a href="https://kinesis-ergo.com/keyboards/advantage360/">Kinesis keyboard</a> with the Dvorak layout.</p>
 
-<p>A keyboard is an engineer's essential tool of the trade. It's a device used daily, so it makes sense for everyone to choose one that they feel comfortable with.</p>
+<p>For engineers, editors and keyboards are essential tools of the trade.  Since they're used daily, it's a good idea for everyone to choose one that they feel comfortable with.</p>
+
+<h2>My desk 🖥️</h2>
+<p></p>
+
+<img src="https://github.com/user-attachments/assets/2cfaf2bc-a45a-48a4-bfd4-bf9863ae46ca" />
+
 
 <h2>GitHub Stats 😝</h2>
 
