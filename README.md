@@ -24,7 +24,7 @@
 </p>
 
 <h2>Family 🐈</h2>
-<p>I have a wife, but no children. We have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, it sometimes hides behind my Macbook and display. So cute 🥰</p>
+<p>I have a wife, but no children. We have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook and display. So cute 🥰</p>
 
 <img src="https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd" />
 
@@ -33,7 +33,7 @@
 
 <p>For engineers, editors and keyboards are essential tools of the trade.  Since they're used daily, it's a good idea for everyone to choose one that they feel comfortable with.</p>
 
-<h2>My desk and display 😁</h2>
+<h2>Desk and Display 😁</h2>
 <p>I use an absolutely massive desk with a super-ultrawide monitor. This is the result of my quest for the perfect, most comfortable work environment.</p>
 
 <p>The display is a 49-inch, 5120x1440 resolution behemoth. It arrived at my house in a ridiculously huge, coffin-sized cardboard box. Because it's absurdly wide, I can't even see the edges when I'm facing it directly. But, I love it. The expansive workspace is like the Sahara Desert – I can have my browser and Emacs open to my heart's content.</p>
