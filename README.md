@@ -26,7 +26,7 @@
 <h2>Family 🐈</h2>
 <p>I have a wife, but no children. We have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook and display. So cute 🥰</p>
 
-<img src="https://github.com/user-attachments/assets/1b9fd7d8-0a63-4ecf-8b9b-ddd10986f3dd" />
+<img src="./images/hoshi.jpg" />
 
 <h2>Emacs and Dvorak 🥳</h2>
 <p>I've been a dedicated <a href="https://www.gnu.org/software/emacs/">Emacs</a> user for about 30 years. While most software engineers these days seem to have switched to VSCode, I remain stubbornly loyal to Emacs (or perhaps I should say, I'm unable to break free from it). And for approximately 25 years, I've been using a <a href="https://kinesis-ergo.com/keyboards/advantage360/">Kinesis keyboard</a> with the Dvorak layout.</p>
@@ -38,7 +38,7 @@
 
 <p>The display is a 49-inch, 5120x1440 resolution behemoth. It arrived at my house in a ridiculously huge, coffin-sized cardboard box. Because it's absurdly wide, I can't even see the edges when I'm facing it directly. But, I love it. The expansive workspace is like the Sahara Desert – I can have my browser and Emacs open to my heart's content.</p>
 
-<img src="https://github.com/user-attachments/assets/2cfaf2bc-a45a-48a4-bfd4-bf9863ae46ca" />
+<img src="./images/display.JPG" />
 
 <h2>GitHub Stats 😝</h2>
 
