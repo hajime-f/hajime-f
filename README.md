@@ -24,7 +24,7 @@
 </p>
 
 <h2>Family 🐈</h2>
-<p>I have a wife, but no children. We have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook and display. So cute 🥰</p>
+<p>I have a wife, no children, but we have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook and display. So cute 🥰</p>
 
 <img src="./images/hoshi.jpg" />
 
