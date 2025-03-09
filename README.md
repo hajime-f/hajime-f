@@ -40,8 +40,8 @@
 
 <img src="./images/display.JPG" />
 
-<h2>Cat again!</h2>
-<p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think?</p>
+<h2>Cat again! 😍</h2>
+<p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think? Despite being told not to enter my room, he sometimes sneaks in and relaxes. Just the other day, I found him inside an empty Amazon box I had left on the floor.</p>
 <img src="./images/hoshi2.JPG" />
 
 <h2>GitHub Stats 😝</h2>
