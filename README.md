@@ -1,4 +1,4 @@
-<h2>Summary 😏</h2>
+<h2>Biography 😏</h2>
 
 <p>I'm Japanese. With a Ph.D. in Machine Learning and a background in Information Science, I have strong programming abilities despite not being a dedicated software engineer. My current work centers around <a href="https://github.com/hajime-f/stocktrading">a Python-based automated trading program for Japanese stocks</a>, driven by Machine Learning algorithms.</p>
 
@@ -24,7 +24,7 @@
 </p>
 
 <h2>Family 🐈</h2>
-<p>I have a wife, no children, but we have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook and display. So cute 🥰</p>
+<p>I have a wife, no children, but we have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook. So cute 🥰</p>
 
 <img src="./images/hoshi.jpg" />
 
@@ -39,6 +39,10 @@
 <p>The display is a 49-inch, 5120x1440 resolution behemoth. It arrived at my house in a ridiculously huge, coffin-sized cardboard box. Because it's absurdly wide, I can't even see the edges when I'm facing it directly. But, I love it. The expansive workspace is like the Sahara Desert – I can have my browser and Emacs open to my heart's content.</p>
 
 <img src="./images/display.JPG" />
+
+<h2>Cat again!</h2>
+<p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think?</p>
+<img src="./images/hoshi2.jpg" />
 
 <h2>GitHub Stats 😝</h2>
 
