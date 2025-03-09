@@ -40,8 +40,9 @@
 
 <img src="./images/display.JPG" />
 
-<h2>Cat again! 😍</h2>
-<p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think? Despite being told not to enter my room, he sometimes sneaks in and relaxes. Just the other day, I found him inside an empty Amazon box I had left on the floor.</p>
+<h2>Hoshi again! 😍</h2>
+<p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think? Despite being told not to enter my room, he sometimes sneaks in and relaxes. Just the other day, I found him inside an empty Amazon box I had left on the floor. </p>
+<p>I don't really understand why he comes into my room when he's not particularly attached to me, or why he always wants to get into empty boxes. But I can't bring myself to scold him, so I just let him do as he pleases.</p>
 <img src="./images/hoshi2.JPG" />
 
 <h2>GitHub Stats 😝</h2>
