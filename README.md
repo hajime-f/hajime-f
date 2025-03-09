@@ -42,7 +42,7 @@
 
 <h2>Cat again!</h2>
 <p>Here's another picture of Hoshi. He's a very photogenic cat, don't you think?</p>
-<img src="./images/hoshi2.jpg" />
+<img src="./images/hoshi2.JPG" />
 
 <h2>GitHub Stats 😝</h2>
 
