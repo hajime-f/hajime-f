@@ -6,21 +6,6 @@
 
 <p>I recently quit my soul-crushing corporate job and am now happily unemployed. For the time being, I plan to make a living by trading stocks using the trading program. However, if you happen to know of any interesting job opportunities, please don't hesitate to <a href="mailto:hajime.fujita@gmail.com">let me know</a>. I'm confident I can be quite useful ...probably.</p>
 
-<p align="left">
-  <a href="https://github.com/hajime-f">
-    <img height="20" src="https://komarev.com/ghpvc/?username=hajime-f" />
-  </a>
-  <a href="https://github.com/hajime-f">
-    <img height="20" src="https://img.shields.io/github/followers/hajime-f?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/hajime-f">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/posts.svg" />
-  </a>
-  <a href="http://qiita.com/hajime-f">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hajime-f/contributions.svg" />
-  </a>
-</p>
-
 <h2>Family 🐈</h2>
 <p>I have a wife, no children, but we have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook. So cute 🥰</p>
 
