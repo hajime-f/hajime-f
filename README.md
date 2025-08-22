@@ -7,9 +7,11 @@
 <p>I recently quit my soul-crushing corporate job and am now happily unemployed. For the time being, I plan to make a living by trading stocks using the trading program. However, if you happen to know of any interesting job opportunities, please don't hesitate to <a href="mailto:hajime.fujita@gmail.com">let me know</a>. I'm confident I can be quite useful ...probably.</p>
 
 <h2>Family 🐈</h2>
-<p>I have a wife, no children, but we have a cat named "Hoshi", which means "star" in Japanese. This cat is very attached to my wife, but completely ignores me. However, he sometimes hides behind my Macbook. So cute 🥰</p>
+<p>I have a wife, no children, but we have cats named "Hoshi" and "Popo". These cats are very attached to my wife, but completely ignore me. However, they sometimes hide behind my Macbook. So cute 🥰</p>
 
 <img src="./images/hoshi.jpg" />
+
+<img src="./images/popo.JPG" />
 
 <h2>Emacs and Dvorak 🥳</h2>
 <p>I've been a dedicated <a href="https://www.gnu.org/software/emacs/">Emacs</a> user for about 30 years. While most software engineers these days seem to have switched to VSCode, I remain stubbornly loyal to Emacs (or perhaps I should say, I'm unable to break free from it). And for approximately 25 years, I've been using a <a href="https://kinesis-ergo.com/keyboards/advantage360/">Kinesis keyboard</a> with the Dvorak layout.</p>
